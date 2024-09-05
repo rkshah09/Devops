@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello worl
 hi world
+=======
+hello world
+>>>>>>> e46ffb2 (third commit)
